@@ -1,0 +1,11 @@
+Machine Learning Journey
+
+This repository contains my practice and learning materials for:
+
+- Python
+- NumPy
+- Pandas
+- Data Visualization
+- Machine Learning Basics
+
+Started organizing and uploading my work consistently from May 2026.
