@@ -1,0 +1,73 @@
+what is programming
+A  set rules/instruction is givem to the system
+  1)low/binary level programming
+  1)mid/assembly level programming
+  3)hihg level programming
+python:
+its human readable an machine understandable  language
+its a high level,intrepreted,object oriented
+and dynamic programming language
+
+Features of pyhton:
+    *easy to learn 
+       print("hello udhayakumar")
+    *open source
+    *indent programming
+    *huge libraries support
+    *platform independent(all the os like linux,wd)
+
+applications:
+    *data science and anayltics
+    *web applications
+    *desktop applications
+    *mobile applications
+    *IOT(internet of things)
+    *cyber security
+    *AI
+
+assignment 1
+1) write pros and cons of python:
+PROS:
+   *Easy to Learn
+   *Simple Syntax
+   *Open Source
+   *Platform Independent
+   *Large Library Support
+   *High Readability
+   *Supports Multiple Programming Paradigms
+   *Strong Community Support
+   *Faster Development
+   *Used in AI and Machine Learning
+CONS:
+   *Slower Execution Speed
+   *High Memory Usage
+   *Runtime Errors
+   *Weak in Mobile Development
+   *Database Access Limitations
+   *Not Suitable for High-Speed Applications
+   *Global Interpreter Lock (GIL) Limitation
+   *Weak Multithreading Support
+   *Dynamic Typing Issues
+   *More Testing Required
+2) write about history of python:
+     *Python is a popular high-level programming language created by Guido van Rossum. He started developing Python in the late 1980s at CWI (Centrum Wiskunde & Informatica) in the Netherlands. Python was officially released in 1991.
+
+The name “Python” was inspired by the British comedy television show Monty Python's Flying Circus. Guido van Rossum selected this name because it was short, unique, and interesting.
+   
+3)write about the python version:
+Python 1.0
+   Released in 1994
+   Included basic programming features
+   Supported functions and modules
+Python 2.0
+   Released in 2000
+   Added garbage collection
+   Added Unicode support
+   Improved memory management
+Python 3.0
+   Released in 2008
+   Introduced cleaner and better syntax
+   Removed unnecessary features from Python 2
+   Improved performance and readability
+
+    
